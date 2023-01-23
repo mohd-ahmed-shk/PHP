@@ -15,5 +15,5 @@
     $query = "INSERT INTO users (name,email,number) VALUES ('$name','$email','$number')";
 
     mysqli_query($con,$query);
-    header('location:index.php');
+    header('location:index.php'); // when form submit it will redirect to index page only
 ?>
