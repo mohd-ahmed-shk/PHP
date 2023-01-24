@@ -46,7 +46,7 @@ if(isset($_POST['name'])) {
     <title>Welcome to Travel Form</title>
 </head>
 <body>
-    <img class="bg" src="bg.jfif" alt="IIT Kharagpur">
+    <img class="bg" src="bg.jpg" alt="IIT Kharagpur">
     <div class="container">
         <h1>Welcome to IIT Kharagpur US Trip form</h1>
         <p>Enter your details and submit this form to confirm your
